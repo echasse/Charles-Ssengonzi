@@ -44,5 +44,5 @@ This project is licensed under the [ GNU GENERAL PUBLIC LICENSE](LICENSE).
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [charles.ssengonzi@ericsson.com];[KogedaO@ukzn.ac.za];[OlwalTO@tut.ac.za]
+If you have any questions, suggestions, or feedback, feel free to reach out to us at [charles.ssengonzi@ericsson.com]
 
